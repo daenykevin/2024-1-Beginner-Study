@@ -1,0 +1,1 @@
+- [GDSC 개발 입문 스터디 2주차 과제](https://github.com/daenykevin/2024-1-Beginner-Study/pull/2)
