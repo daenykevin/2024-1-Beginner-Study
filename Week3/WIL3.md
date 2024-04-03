@@ -16,7 +16,7 @@
 - reset : commit id를 사용하여 commit을 제거하는 데에 사용된다.
 - reset --soft : commit만 취소되며, 변경 사항이 staging area로 돌아간다.
 - reset --mixed : commit이 취소되며, 변경 사항이 working directory로 돌아간다.
-- reset --hard : commit이 취소되며, 변경 사항을 모두 제거하고 이전 commit으로 돌아간다.
+- reset --hard : commit이 취소되며, 변경 사항을 모두 제거하고 이전 commit으로 돌아간다.  
 
 - revert : commit을 되돌리는 기능. 현재 commit을 보존한 채 이전 commit을 새로운 commit으로써 불러온다.
 - revert --no-edit : 편집기 진입 없이 바로 commit한다.
